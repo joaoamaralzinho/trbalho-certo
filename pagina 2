@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+
+
+<head>
+
+
+
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="style.css">
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+    <header>
+     <center>
+        <img class="logo" src="logo.png"  alt="Logo">
+     </center>
+
+
+
+        <nav>
+
+            <ul>
+
+                <li class="Reciclagem"> <a href="index.html"> Reciclagem </a></li>
+
+                <li class="Papel"> <a href="papel.html"> Papel </a> </li>
+
+                <li class="Informações"> <a href="informaçoes.html"> Informações  </a></li>
+
+                <li class="Equipe">   <a href ="equipe.html">Equipe</a></li>
+
+                
+
+
+
+             
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+ 
+
+    <main>
+
+
+
+
+
+
+       
+
+            <H1>Papel
+
+               
+
+            </H1>
+
+            <p> 
+
+                <h2>Processo de Fabricação</h2>
+                A árvore é decapitada e transportada para o local de fabricação. Lá passa por um processo de limpeza (lavagem, retirada das cascas)<br>
+                 e só então é dividida em cavacos de tamanhos pré-estabelecidos. Os cavacos são cozidos em um digestor à temperatura de 160° C. Gerando<br>
+                  uma pasta marrom que pode ser usada para fabricar papéis não branqueados.<br>
+                
+                Branqueamento: Os alvejantes são adicionados à pasta marrom transformando-a em polpa branqueada.<br>
+                Secagem e prensagem: A polpa de celulose é espalhada em uma tela de metal que roda entre diversos cilindros, a matéria é então seca e<br>
+                 prensada até atingir a gramatura desejada para o papel a ser produzido.<br>
+                Aditivos: O papel já pronto pode passar ainda por tratamento com aditivos para adquirir outras características como adição de argila<br>
+                para tornar a superfície mais lisa e macia para a escrita ou cola para o papel que será ussado para a impressão.<br>
+            </p>
+            <p>
+                <H2>O processo de reciclagem do papel</H2>
+                Ele começa pela seleção do material, separação do material que será utilizado para ser colocado em contentores que irão gerar<br>
+                fibras novas para produção de papel a partir das fibras velhas. Normalmente as fibras recicladas são misturadas a pastas de refinador<br>
+                com fibras virgens. Essa nova mistura de pasta de celulose é submetida a um processo de refinamento e depuração onde o novo papel irá <br>
+                ganhar mais resistência e qualidade. Neste processo são retirados excessos de materiais contaminantes para o papel reciclado. <br>
+                Ao final a pasta é levada para a secagem e formatação. Após esse processo a reciclagem do papel se conclui e o novo material poderá <br>
+                novamente ser introduzido ao mercado consumidor.<br>
+
+            </p>
+<center>
+            <img src="papel.png" alt="Papel" width="700" height="400" center>
+</center>
+
+
+        </div>
+
+
+
+    </main>
+
+  <footer>
+
+        <div class="Footer">
+
+            EQUIPE 5
+
+        </div>
+
+    </footer>
+
+    </div>
+
+</body>
+
+
+
+</html>
