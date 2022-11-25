@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+
+
+<head>
+
+
+
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="style.css">
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+    <header>
+     <center>
+        <img class="logo" src="logo.png"  alt="Logo">
+     </center>
+
+
+
+        <nav>
+
+            <ul>
+
+                <li class="Reciclagem"> <a href="index.html"> Reciclagem </a></li>
+
+                <li class="Papel"> <a href="papel.html"> Papel </a> </li>
+
+                <li class="Informações"> <a href="informaçoes.html"> Informações  </a></li>
+
+                <li class="Equipe">   <a href ="equipe.html">Equipe</a></li>
+
+                
+
+
+
+             
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+ 
+
+    <main>
+
+
+
+
+
+
+       
+
+            <H1>Oque é reciclagem?
+
+               
+
+            </H1>
+
+            <p> A reciclagem é o processo de reaproveitamento de materiais descartados. Seu objetivo é reintroduzi-los na cadeia produtiva a fim de que ainda <br> 
+                gerem valor e sejam reutilizados, reduzindo-se a produção de lixo, aumentando a preservação dos recursos naturais e melhorando a qualidade de vida <br> 
+                das pessoas.
+              
+                Ela faz parte dos três “R’s” ou “erres”: reciclagem, reutilização e redução. Como a reciclagem consiste em reprocessar um item, <br>
+                ela é diferente da reutilização (em que há apenas a utilização do item para outra função) e da redução (que consiste em diminuir o consumo <br>
+                de determinados produtos).
+            </p>
+            <h2>
+                A importância da reciclagem:
+            </h2>
+            <p>
+                A reciclagem é essencial para mantermos uma sociedade sustentável. Além do reaproveitamento do resíduo como matéria-prima de novos produtos,<br>
+                o que gera economia para as empresas, há outros benefícios, como: redução no gasto de energia; redução dos gases de efeito estufa (GEE);<br>
+                preservação de fontes de matéria-prima; diminuição do gasto com aterros sanitários; geração de emprego.
+                Estudos feitos por pesquisadores da Frankilin Associates mostram, por exemplo, que, quando reciclado, o uso de Politereftalato de Etileno,<br>
+                plástico utilizado para produção das garrafas PET, pode reduzir pela metade as emissões de GEE em comparação com o plástico virgem. Esse é um<br>
+                dado muito importante, visto que esses gases contribuem para o aquecimento global, cujos efeitos têm consequências bastante negativas para o <br>
+                planeta.
+            </p>
+            <h3>
+                Materias reciclaveis
+            </h3>
+            <p>
+
+               <H5>Papéis</H5> 
+                Recicláveis: Jornais, revistas, caixas, papelão, papel de fax, formulários de computador, folhas de caderno, cartolinas, cartões, envelopes,<br>
+                 fotocópias, folhetos e impressos em geral.<br>
+                
+                Não recicláveis: Adesivos, etiquetas, fita crepe, papel carbono, fotografias, papel toalha, papel higiênico, papéis e guardanapos engordurados,<br> 
+                papéis metalizados, parafinados ou plastificados.<br>
+
+               <h5>Vidros</h5> 
+                Recicláveis: Tampas, potes, frascos, garrafas de bebidas, copos e embalagens<br>
+                Não recicláveis: Espelhos, cristal, ampolas de medicamentos, cerâmicas, louças, lâmpadas e vidros temperados planos.<br>
+
+                <h5>Metais</h5>
+                Recicláveis: Latas de alumínio, latas de aço, tampas, ferragens, canos, esquadrias e molduras de quadros.<br>
+                Não recicláveis: Clipes, grampos, esponjas de aço, latas de tintas, latas de combustível e pilhas.<br>
+
+                <h5>Plástico</h5>
+                Recicláveis: Tampas, potes de alimentos, frascos, utilidades domésticas, embalagens de refrigerante, garrafas de água mineral, recipientes<br>
+                 para produtos de higiene e limpeza, PVC, tubos e conexões, sacos plásticos em geral, peças de brinquedos, engradados de bebidas e baldes.<br>
+                Não recicláveis: Cabos de panela, tomadas, isopor, adesivos, espuma, teclados de computador e acrílicos.<br>
+            </p>
+            <p>
+                É importante ressaltar que a presença de lixo não reciclável durante o processo de reciclagem pode trazer problemas, como prejudicar a<br>
+                 qualidade do produto final reciclado ou até quebrar a máquina que faz o processo de reciclagem. Por isso, na hora de separar o material<br>
+                  reciclável deve-se ter o máximo de cuidado possível para não prejudicar todo o processo.<br>
+
+            </p>
+<center>
+            <img src="reciclagem.png" alt="reciclagem" width="500" height="400" center>
+</center>
+
+
+        </div>
+
+
+
+    </main>
+
+  <footer>
+
+        <div class="Footer">
+
+            EQUIPE 5
+
+        </div>
+
+    </footer>
+
+    </div>
+
+</body>
+
+
+
+</html>
