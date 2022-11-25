@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+
+
+<head>
+
+
+
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="style.css">
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+    <header>
+     <center>
+        <img class="logo" src="logo.png"  alt="Logo">
+     </center>
+
+
+
+        <nav>
+
+            <ul>
+
+                <li class="Reciclagem"> <a href="index.html"> Reciclagem </a></li>
+
+                <li class="Papel"> <a href="papel.html"> Papel </a> </li>
+
+                <li class="Informações"> <a href="informaçoes.html"> Informações  </a></li>
+
+                <li class="Equipe">   <a href ="equipe.html">Equipe</a></li>
+
+       
+
+
+
+             
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+ 
+
+    <main>
+
+
+
+
+
+
+       
+
+            <H1>Equipe
+
+               
+
+            </H1>
+            <h2>Integrantes:Quirino, Marcelo, João Vitor Amaral, Karolina, Manoele, Gabriela Thais</h2>
+
+
+
+            </p>
+<center>
+            <img src="quirino.png" alt="Quirino" width="400" height="400" center>
+            <img src="marcelo.png" alt="Marcelo" width="400" height="400" center>
+            <img src="amral.png" alt="Amaral" width="400" height="400" center>
+            <img src="karol.png" alt="Karolina" width="400" height="400" center>
+            <img src="manu.png" alt="Manoele" width="400" height="400" center>
+            <img src="gabi.png" alt="Gabriela" width="400" height="400" center>
+
+</center>
+
+
+        </div>
+
+
+
+    </main>
+
+  <footer>
+
+        <div class="Footer">
+
+            EQUIPE 5
+
+        </div>
+
+    </footer>
+
+    </div>
+
+</body>
+
+
+
+</html>
